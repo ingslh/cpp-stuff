@@ -36,7 +36,7 @@ def pack_module(os_name, build_config):
     return result
 
 def main():
-    proj_name = "effect_tool"
+    proj_name = "test_tool"
     os_name = "Windows" # Windows/Mac/Android/iOS
 
     print("usage:")
